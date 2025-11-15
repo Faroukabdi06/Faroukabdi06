@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Faroukabdi06
-- 👀 I’m interested in software development
+- 👀 I’m interested in building softwares
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me { email : abdifarouk58@gmail.com }
 - 😄 Pronouns: he
 - ⚡ Fun fact: 
 
