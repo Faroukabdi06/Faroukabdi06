@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faroukabdi06
+- 👋 Hi, I’m Farouk Abdi
 - 👀 I’m interested in building softwares
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any project
